@@ -1,0 +1,1 @@
+The lightweight neural network model design of the graduate school design performs multi-classification of one-dimensional signals with a size of 4000X2, and only considers the design of lightweight networks for the time being, and is expected to continue to complete the knowledge distillation part
